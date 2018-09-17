@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1029622177285",
+    "firebase_url": "https://parkingalert-4b97e.firebaseio.com",
+    "project_id": "parkingalert-4b97e",
+    "storage_bucket": "parkingalert-4b97e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029622177285:android:148276384494b21c",
+        "android_client_info": {
+          "package_name": "com.example.dc.pushnotificationsfirebasecm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029622177285-alofgq20k9pdii301he7tfd9amt3dvh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwqQH1URD2_TnQT4rsGAXEDJ1wt-OUYwk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
