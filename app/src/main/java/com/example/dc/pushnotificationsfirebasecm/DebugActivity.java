@@ -18,7 +18,7 @@ public class DebugActivity extends AppCompatActivity {
     //////////////////////
 
     String Activities[] ={
-            "Debug activity"
+            "Firebase activity"
 
 
     };
@@ -47,7 +47,7 @@ public class DebugActivity extends AppCompatActivity {
                 /////////////////////////
                 switch(position){
                     case 0:
-                        startActivity(new Intent(DebugActivity.this,Debug.class));break;
+                        startActivity(new Intent(DebugActivity.this,FireBaseActivity.class));break;
 
 
                 }
